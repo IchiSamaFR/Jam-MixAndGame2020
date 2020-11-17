@@ -1,0 +1,1408 @@
+fileFormatVersion: 2
+guid: 9eb3a146bb9fb9c4597e97b52f2aa770
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8488266539934094481
+    second: idle_south_1
+  - first:
+      213: -2024567829491530754
+    second: scaraba_1
+  - first:
+      213: 6038809555183498821
+    second: scaraba_2
+  - first:
+      213: 5756045732960741633
+    second: idle_south_2
+  - first:
+      213: 2352561871122332480
+    second: idle_south_3
+  - first:
+      213: -3215026122447688307
+    second: idle_south_4
+  - first:
+      213: -176854962550355091
+    second: idle_south_5
+  - first:
+      213: 7986809900923787360
+    second: idle_south_6
+  - first:
+      213: 5738579233882882041
+    second: scaraba_8
+  - first:
+      213: -4671429054083175464
+    second: idle_north_1
+  - first:
+      213: 28882771293546607
+    second: idle_north_2
+  - first:
+      213: -267043048094987367
+    second: idle_north_3
+  - first:
+      213: 7141083450278431931
+    second: idle_north_4
+  - first:
+      213: 8504281103360364167
+    second: idle_north_5
+  - first:
+      213: -495980587184251938
+    second: idle_north_6
+  - first:
+      213: 7371925600264712383
+    second: walk_south_1
+  - first:
+      213: -752447344016880685
+    second: walk_south_2
+  - first:
+      213: 51031677135415540
+    second: walk_south_3
+  - first:
+      213: 2971970615920321691
+    second: walk_south_4
+  - first:
+      213: -9207956333766825458
+    second: walk_south_5
+  - first:
+      213: -9118135599812747646
+    second: walk_south_6
+  - first:
+      213: 1644042019063115474
+    second: scaraba_21
+  - first:
+      213: 8006532056977672034
+    second: walk_north_1
+  - first:
+      213: -6469530958237696771
+    second: walk_north_2
+  - first:
+      213: 1782243290460580069
+    second: walk_north_3
+  - first:
+      213: -2082589572699163593
+    second: walk_north_4
+  - first:
+      213: 236676200311449943
+    second: walk_north_5
+  - first:
+      213: 6714218370512355804
+    second: walk_north_6
+  - first:
+      213: -4554945466156908665
+    second: scaraba_28
+  - first:
+      213: 3106176912958256756
+    second: fight_south_1
+  - first:
+      213: 4735339565419858546
+    second: scaraba_30
+  - first:
+      213: -2055120866233286467
+    second: fight_south_2
+  - first:
+      213: 8710617858358489454
+    second: fight_south_3
+  - first:
+      213: 4493191909332912191
+    second: fight_south_4
+  - first:
+      213: 7702184226082025939
+    second: fight_south_5
+  - first:
+      213: -3931084861412540128
+    second: fight_south_6
+  - first:
+      213: -533426825515791866
+    second: fight_north_1
+  - first:
+      213: 2958005539777606340
+    second: fight_north_2
+  - first:
+      213: 3178994699329674040
+    second: scaraba_38
+  - first:
+      213: 5189696818487644655
+    second: fight_north_3
+  - first:
+      213: -5581791385436032680
+    second: fight_north_4
+  - first:
+      213: -1672753447135059989
+    second: fight_north_5
+  - first:
+      213: 6454549745397165018
+    second: fight_north_6
+  - first:
+      213: 2860925919681857027
+    second: scaraba_43
+  - first:
+      213: -8602888241147032642
+    second: scaraba_44
+  - first:
+      213: 663342652536400077
+    second: scaraba_45
+  - first:
+      213: -9165931593594659331
+    second: scaraba_46
+  - first:
+      213: -5768179472155916646
+    second: scaraba_47
+  - first:
+      213: -4757606503705162135
+    second: scaraba_48
+  - first:
+      213: -7078867381036587284
+    second: scaraba_49
+  - first:
+      213: -2319111650764221758
+    second: scaraba_50
+  - first:
+      213: 9147207633991810032
+    second: scaraba_51
+  - first:
+      213: -2917016330894023606
+    second: scaraba_52
+  - first:
+      213: 2841571375960241444
+    second: scaraba_53
+  - first:
+      213: -8053961878958825814
+    second: scaraba_54
+  - first:
+      213: 7768944512622875770
+    second: scaraba_55
+  - first:
+      213: 1899531990085751295
+    second: scaraba_56
+  - first:
+      213: 7618963246723773996
+    second: scaraba_57
+  - first:
+      213: -3449239417967642590
+    second: scaraba_58
+  - first:
+      213: 2175999268347825452
+    second: die_south_1
+  - first:
+      213: -5326283215471671138
+    second: die_south_2
+  - first:
+      213: -4731412302540613225
+    second: die_north_1
+  - first:
+      213: -7226409517628755800
+    second: scaraba_62
+  - first:
+      213: 2785914296905363396
+    second: scaraba_63
+  - first:
+      213: -2365762201249203006
+    second: scaraba_64
+  - first:
+      213: -2211979378587662798
+    second: die_north_2
+  - first:
+      213: 1255423461686213284
+    second: scaraba_66
+  - first:
+      213: 5292229896141303241
+    second: scaraba_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_south_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 472
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092708e81591ef40800000000000000
+      internalID: 5756045732960741633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_south_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 473
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bff50be8af5a020800000000000000
+      internalID: 2352561871122332480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_south_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 473
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d67eb86cee163d0800000000000000
+      internalID: -3215026122447688307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_south_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 473
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bcb6c395fab8df0800000000000000
+      internalID: -176854962550355091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_south_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 472
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0689229f949d6de60800000000000000
+      internalID: 7986809900923787360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_north_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 476
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbeeed8600cb2fb0800000000000000
+      internalID: -4671429054083175464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_north_2
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 476
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68a41b3abc966000800000000000000
+      internalID: 28882771293546607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_north_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 476
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b8f8a33c54b4cf0800000000000000
+      internalID: -267043048094987367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_north_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 476
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc444d10993a1360800000000000000
+      internalID: 7141083450278431931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_north_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 476
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e8cdb1b96450670800000000000000
+      internalID: 8504281103360364167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_north_6
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 476
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9465a84ced19f0800000000000000
+      internalID: -495980587184251938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_south_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 355
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0f26a76475e4660800000000000000
+      internalID: 7371925600264712383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_south_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 355
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db00b39025ce85f0800000000000000
+      internalID: -752447344016880685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_south_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 357
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8e2fb3a0d45b000800000000000000
+      internalID: 51031677135415540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_south_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 357
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9464dc678f8e3920800000000000000
+      internalID: 2971970615920321691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_south_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 356
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a25821084c63080800000000000000
+      internalID: -9207956333766825458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_south_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 354
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e515f5bffd57180800000000000000
+      internalID: -9118135599812747646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_north_1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 356
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2678ee24c7aec1f60800000000000000
+      internalID: 8006532056977672034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_north_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 356
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc79dadedb9736a0800000000000000
+      internalID: -6469530958237696771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_north_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 355
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e93774dccbb810800000000000000
+      internalID: 1782243290460580069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_north_4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 354
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734755251d72913e0800000000000000
+      internalID: -2082589572699163593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_north_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 354
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7596a5e00c7d84300800000000000000
+      internalID: 236676200311449943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_north_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 355
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd18ac6d802bd2d50800000000000000
+      internalID: 6714218370512355804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_south_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4767562f17b5b1b20800000000000000
+      internalID: 3106176912958256756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a04bfee3e47b140800000000000000
+      internalID: 4735339565419858546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_south_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 225
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db00cade57eba73e0800000000000000
+      internalID: -2055120866233286467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_south_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 231
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61b1a59ac452e870800000000000000
+      internalID: 8710617858358489454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_south_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 228
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38827f4c360b5e30800000000000000
+      internalID: 4493191909332912191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_south_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 231
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17c36eeb7a3ea60800000000000000
+      internalID: 7702184226082025939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_south_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 232
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210795752bf179c0800000000000000
+      internalID: -3931084861412540128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_north_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 227
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a877fd023e898f0800000000000000
+      internalID: -533426825515791866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_north_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 230
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2f412cd52fc0920800000000000000
+      internalID: 2958005539777606340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_38
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b156406de0e1c20800000000000000
+      internalID: 3178994699329674040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_north_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 231
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe15eed92c1850840800000000000000
+      internalID: 5189696818487644655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_north_4
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 231
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ffbcfe4e7982b0800000000000000
+      internalID: -5581791385436032680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_north_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 231
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef54ba3a9f29c8e0800000000000000
+      internalID: -1672753447135059989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_north_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 232
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6c77bbca239950800000000000000
+      internalID: 6454549745397165018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306485357fc04b720800000000000000
+      internalID: 2860925919681857027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_44
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbcb0889b66c9880800000000000000
+      internalID: -8602888241147032642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 133
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc82cc0c0aaa43900800000000000000
+      internalID: 663342652536400077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 134
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964279c45f43ffa0800000000000000
+      internalID: -5768179472155916646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_51
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 153
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb2de01e861fe70800000000000000
+      internalID: 9147207633991810032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_52
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 130
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446c012a1da487d0800000000000000
+      internalID: -2917016330894023606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 147
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae1f12c7549a3090800000000000000
+      internalID: -8053961878958825814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaraba_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 146
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263ab5b4befbb960800000000000000
+      internalID: 7618963246723773996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_south_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc16d3ec3b23e10800000000000000
+      internalID: 2175999268347825452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_south_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e988fa8a2ad3516b0800000000000000
+      internalID: -5326283215471671138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_north_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79957253495a65eb0800000000000000
+      internalID: -4731412302540613225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_north_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 10
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2360bc889787d41e0800000000000000
+      internalID: -2211979378587662798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_south_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 472
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1941b9ff1716cc570800000000000000
+      internalID: 8488266539934094481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
